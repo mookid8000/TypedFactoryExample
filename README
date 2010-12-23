@@ -1,0 +1,1 @@
+Simple Windows Forms sample that uses a simple MVC (more like VC, actually) pattern and Windsor's typed factory facility.
